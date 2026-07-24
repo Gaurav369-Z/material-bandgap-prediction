@@ -39,6 +39,9 @@ This project uses the JARVIS DFT 3D Dataset.
 |--------|------:|
 | R² Score | 0.7915 |
 | Mean Absolute Error (MAE) | 0.3256 eV |
+ 
+## Result
+![results](ml_vs_qe_vs_actual.png)
 
 ## Future Work
 
