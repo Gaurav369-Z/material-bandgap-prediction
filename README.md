@@ -41,7 +41,7 @@ This project uses the JARVIS DFT 3D Dataset.
 | Mean Absolute Error (MAE) | 0.3256 eV |
  
 ## Result
-![results](ml_vs_qe_vs_actual.png)
+<img src="results/ml_vs_qe_vs_actual.png" width="700">
 
 ## Future Work
 
