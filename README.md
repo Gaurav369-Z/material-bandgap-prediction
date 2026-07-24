@@ -28,7 +28,6 @@ This project uses the JARVIS DFT 3D Dataset.
 - Average Electronegativity
 - Electronegativity Difference
 - Average Atomic Radius
--Average Atomic Radius
 
 ## Machine Learning Model
 
